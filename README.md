@@ -12,7 +12,7 @@
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
 # Extenciones de VSCode
-- [aste Json as code](https://marketplace.visualstudio.com/items?itemName=typeguard.quicktype-vs)
+- [Paste Json as Code](https://marketplace.visualstudio.com/items?itemName=typeguard.quicktype-vs)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [Bloc](https://marketplace.visualstudio.com/items?itemName=FelixAngelov.bloc)
 - [Dart Language](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
